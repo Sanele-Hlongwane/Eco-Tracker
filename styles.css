@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Customize the tab bar container */
+.tab-bar {
+  background-color: orange;
+  border-top-width: 1px; /* Optional: Add a border to the top */
+  border-top-color: green; /* Optional: Border color */
+}
+
+/* Customize the active tab item */
+.tab-item-active {
+  color: green;
+}
+
+/* Customize the inactive tab item */
+.tab-item-inactive {
+  color: gray;
+}
+
+/* Customize the tab bar icon */
+.tab-icon {
+  margin-top: 5px; /* Optional: Adjust the icon's vertical position */
+}
